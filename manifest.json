@@ -1,0 +1,9 @@
+{
+  "name": "Ilyes Chouia",
+  "short_name": "celyes",
+  "theme_color": "#ffffff",
+  "background_color": "#4a00d8",
+  "display": "browser",
+  "scope": "/",
+  "start_url": "/"
+}
