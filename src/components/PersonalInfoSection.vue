@@ -17,7 +17,7 @@
         </div>
     </div>
     <div class="row pt-4">
-        <div class="col-sm-6my-2">
+        <div class="col-sm-6 my-2">
         <span class="d-flex justify-content-center mx-3">
           <a rel="noopener" href="mailto:celyes02@gmail.com"
              class="text-muted contact">
