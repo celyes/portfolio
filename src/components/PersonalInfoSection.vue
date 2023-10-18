@@ -19,15 +19,6 @@
     <div class="row pt-4">
         <div class="col-sm-6 col-md-4 my-2">
         <span class="d-flex justify-content-center mx-3">
-          <a rel="noopener" href="https://twitter.com/stderr33"
-             class="text-muted" target="_blank">
-            <i class="uil uil-twitter-alt"></i>
-            <span class="text-muted ml-2">Twitter</span>
-          </a>
-        </span>
-        </div>
-        <div class="col-sm-6 col-md-4 my-2">
-        <span class="d-flex justify-content-center mx-3">
           <a rel="noopener" href="mailto:celyes02@gmail.com"
              class="text-muted contact">
             <i class="uil uil-envelope-alt"></i>
