@@ -32,14 +32,6 @@
             <span class="type mx-2">Django</span>
         </div>
         <div class="col-xs-4 col-sm-2 language">
-            <img src="img/graphql.svg" class="skill-icon" alt="graphql"/>
-            <span class="type mx-2">GraphQL</span>
-        </div>
-        <div class="col-xs-4 col-sm-2 language">
-            <img src="img/swift.svg" class="skill-icon" alt="swift"/>
-            <span class="type mx-2">Swift</span>
-        </div>
-        <div class="col-xs-4 col-sm-2 language">
             <img src="img/sql.svg" class="skill-icon" alt="sql"/>
             <span class="type mx-2">SQL</span>
         </div>
