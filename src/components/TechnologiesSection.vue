@@ -47,10 +47,10 @@
             <img src="img/tailwindcss.svg" class="skill-icon" alt="tailwindcss"/>
             <span class="type mx-2">Tailwind</span>
         </div>
-        <div class="col-xs-4 col-sm-2 language">
+        <!--<div class="col-xs-4 col-sm-2 language">
             <img src="img/expressjs.svg" class="skill-icon" alt="express.js"/>
             <span class="type mx-2">Express.js</span>
-        </div>
+        </div>-->
         <div class="col-xs-4 col-sm-2 language">
             <img src="img/docker.svg" class="skill-icon" alt="docker"/>
             <span class="type mx-2">Docker</span>
@@ -71,10 +71,12 @@
             <img src="img/nginx.svg" class="skill-icon" alt="nginx"/>
             <span class="type mx-2">Nginx</span>
         </div>
+        <!--
         <div class="col-xs-4 col-sm-2 language">
             <img src="img/apache.svg" class="skill-icon" alt="apache"/>
             <span class="type mx-2">Apache</span>
         </div>
+        -->
         <div class="col-xs-4 col-sm-2 language">
             <img src="img/redis.svg" class="skill-icon" alt="redis"/>
             <span class="type mx-2">Redis</span>
