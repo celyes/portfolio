@@ -10,7 +10,7 @@
             </div>
             <div class="d-flex justify-content-center mt-5">
                 <h2 class="text-muted job">
-                    Backend Engineer
+                    Fullstack software Engineer
                 </h2>
             </div>
             <br/>
