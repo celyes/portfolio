@@ -22,7 +22,7 @@
           <a rel="noopener" href="mailto:celyes02@gmail.com"
              class="text-muted contact">
             <i class="uil uil-envelope-alt"></i>
-            ilyes.chouia@outlook.com
+            hello@celyes.dev
           </a>
         </span>
         </div>
